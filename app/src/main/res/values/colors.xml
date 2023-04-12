@@ -10,4 +10,7 @@
     <color name="green">#1D8F4B</color>
     <color name="lavender">#8692f7</color>
     <color name="grey">#ff424242</color>
+    <color name="colorPrimary">#ff424242</color>
+    <color name="colorPrimaryDark">#ff424242</color>
+    <color name="colorAccent">#ff424242</color>
 </resources>
